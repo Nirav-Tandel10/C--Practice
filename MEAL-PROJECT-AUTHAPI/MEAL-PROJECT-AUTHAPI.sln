@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEAL-PROJECT-AUTHAPI", "MEAL-PROJECT-AUTHAPI.csproj", "{65DDA391-DF9A-4484-976D-4C1870770474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65DDA391-DF9A-4484-976D-4C1870770474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65DDA391-DF9A-4484-976D-4C1870770474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65DDA391-DF9A-4484-976D-4C1870770474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65DDA391-DF9A-4484-976D-4C1870770474}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E505B7A8-5B3F-405B-AB83-5ABDB9B1D247}
+	EndGlobalSection
+EndGlobal
